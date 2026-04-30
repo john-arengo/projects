@@ -184,14 +184,6 @@ CPU alarm triggered after stress test.
 terraform destroy
 ```
 
----
-
-## Resume Example
-
-Built AWS infrastructure with Terraform to deploy an EC2 instance, configure CloudWatch Agent for system metrics, and implement monitoring with CloudWatch alarms and SNS notifications, using Systems Manager for secure access.
-
----
-
 ## Notes
 
 * CPU metrics are provided by EC2 by default
